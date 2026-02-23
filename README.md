@@ -15,7 +15,7 @@ This repository contains one of the winning solution for the focused on developi
 
 - **`Cnn-class-image.h5`** - Pre-trained optimized model:
   -  0.8667 % validation accuracy
-  - Only 0.05 MB file size
+  - Only 0.233 MB file size
 
 ## Dataset Information
 
@@ -29,7 +29,7 @@ This repository contains one of the winning solution for the focused on developi
 ### Class Distribution
 | Category | Training Samples | validation Samples |
 |----------|------------------|--------------|
-| **Galaxy** | 37,440 | 7507 |
-| **Stars** | 1,070 | 268 |
+| **Galaxy** | 22,440 | 2,507 |
+| **Stars** | 15,070 | 3,068 |
 
     
