@@ -29,7 +29,7 @@ This repository contains one of the winning solution for the focused on developi
 ### Class Distribution
 | Category | Training Samples | validation Samples |
 |----------|------------------|--------------|
-| **Galaxy** | 22,440 | 2,507 |
-| **Stars** | 15,070 | 3,068 |
+| **Galaxy** | 14,453| 3,456 |
+| **Stars** | 21,523 | 5,394 |
 
     
