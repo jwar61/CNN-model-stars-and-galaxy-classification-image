@@ -3,7 +3,7 @@
 
 This repository contains one of the solutions aimed at developing effective deep learning models for the classification of star and galaxy images.
 
-**Objective:** Develop an optimized CNN model to classify stars and galaxy images with maximum efficiency and accuracy.
+**Objective:** Developed and optimized a CNN model to classify stars and galaxy images with maximum efficiency and accuracy.
 
 ### File Details in this Repository:
 
